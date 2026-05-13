@@ -24,8 +24,8 @@ The system integrates:
 # Project Architecture
 
 ```text
-Windows / Polhemus  ──UDP JSON──▶ Laptop Middleware Server
-Ubuntu / VR         ──UDP JSON──▶ Laptop Middleware Server
+Windows / VR  ──UDP JSON──▶ Laptop Middleware Server
+Ubuntu / Polhemus   ──UDP JSON──▶ Laptop Middleware Server
 
 Laptop:
 - Receives both streams
